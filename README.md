@@ -60,7 +60,10 @@
   <table align="center">
     <tr>
       <td>일정 관리, API 명세</td>
-      <td><img alt="RED" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
+      <td>
+        <a href="https://www.notion.so/seongmin-97/e67329f2603a470d9284ea3d0414cf56?v=889f29601fef496eab323786878d81c7&pvs=4">
+        <img alt="RED" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
+        </a>
       </td>
     </tr>
     <tr>
@@ -68,7 +71,7 @@
       <td><img alt="draw.io" src ="https://img.shields.io/badge/Draw.io-F08705.svg?&style=for-the-badge&logo=diagramsdotnet&logoColor=white"/></td>
     </tr>
     <tr>
-      <td>버전 관리, 협업</td>
+      <td>HW Resource (추가 예정)</td>
       <td><img alt="Git" src="https://img.shields.io/badge/git-E6484F.svg?style=for-the-badge&logo=git&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></td>
     </tr>
   </table>
