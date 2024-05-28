@@ -1,0 +1,15 @@
+-rootPath
+C:/Qt/Examples/Qt-6.7.0/quickcontrols/imagine/automotive
+-cmake-output
+-output-file
+C:/Qt/Examples/Qt-6.7.0/quickcontrols/imagine/automotive/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_automotiveexample.cmake
+-importPath
+C:/Qt/Examples/Qt-6.7.0/quickcontrols/imagine/automotive/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug/automotive
+-importPath
+C:/Qt/Examples/Qt-6.7.0/quickcontrols/imagine/automotive/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug
+-importPath
+C:/Qt/6.7.0/msvc2019_64/./qml
+-qrcFiles
+C:/Qt/Examples/Qt-6.7.0/quickcontrols/imagine/automotive/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug/.rcc/qmake_automotive.qrc
+C:/Qt/Examples/Qt-6.7.0/quickcontrols/imagine/automotive/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug/.rcc/qmake_automotive_copy.qrc
+C:/Qt/Examples/Qt-6.7.0/quickcontrols/imagine/automotive/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug/.rcc/automotiveexample_raw_qml_0.qrc

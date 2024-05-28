@@ -1,0 +1,6 @@
+module automotive
+typeinfo automotiveexample.qmltypes
+prefer :/
+FeatureButton 254.0 qml/FeatureButton.qml
+LargeLabel 254.0 qml/LargeLabel.qml
+
