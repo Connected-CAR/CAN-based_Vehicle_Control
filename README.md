@@ -71,9 +71,6 @@
       <td><img alt="draw.io" src ="https://img.shields.io/badge/Draw.io-F08705.svg?&style=for-the-badge&logo=diagramsdotnet&logoColor=white"/></td>
     </tr>
     <tr>
-      <td>HW Resource (추가 예정)</td>
-      <td><img alt="Git" src="https://img.shields.io/badge/git-E6484F.svg?style=for-the-badge&logo=git&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></td>
-    </tr>
   </table>
 </p>
 
@@ -117,6 +114,26 @@
 <!-- :paw_prints:-->
 <!-- 프로젝트 설계 -->
 <h2 id="folder-structure"> :cactus: 프로젝트 설계</h2>
+
+### 회로도
+<p align="center">
+
+#### 동작부 ESP32
+  
+<img width="50%" height="50%" src="https://github.com/Connected-CAR/GUI-based_Vehicle_Control/assets/101693311/95a61caa-ef36-489a-b0b8-d0371e4dbf84">
+  
+  #### 메인부 ESP32
+  <img width="50%" height="50%" src="https://github.com/Connected-CAR/GUI-based_Vehicle_Control/assets/101693311/4cfc037d-a802-49dd-9ad4-b7dc2e18b30d">
+  
+  #### 센서부 ESP32
+  
+  <img width="50%" height="50%" src="https://github.com/Connected-CAR/GUI-based_Vehicle_Control/assets/101693311/45942d93-9469-4e3e-abbf-b468af7873f2">
+
+  #### Renesas FPB-RA6E1
+  <img width="50%" height="50%" src="https://github.com/Connected-CAR/GUI-based_Vehicle_Control/assets/101693311/d4fa7add-c645-4a3c-8cb6-d05f9ff6796b">
+</p>
+
+---
 
 ### 차량 프레임
 <p align="center">
