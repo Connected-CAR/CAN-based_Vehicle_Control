@@ -15,10 +15,10 @@ void DatabaseManager::init()
     qDebug()<<"드라이버"<<QSqlDatabase::drivers();
     qDebug()<<QCoreApplication::libraryPaths();
     db = QSqlDatabase::addDatabase("QMYSQL");
-    db.setHostName("13.124.218.110");
+    db.setHostName("xx.xx.xx.xx"); // id
     db.setUserName("wooyoung");
     db.setPort(3306);
-    db.setPassword("1234");
+    db.setPassword("xxxx"); // pwd
     db.setDatabaseName("wooDB");
 
     if (db.open()) {
