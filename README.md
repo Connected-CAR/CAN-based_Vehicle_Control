@@ -1,5 +1,5 @@
-<h1 align="center"> GUI-based_Vehicle_Control </h1>
-<h3 align="center"> GUI 기반 차량 전장 제어 시스템  </h3>  
+<h1 align="center"> CAN-based_Vehicle_Control </h1>
+<h3 align="center"> CAN 통신 기반 차량 전장 제어 시스템  </h3>  
 
 <table align="center">
   <tr>
